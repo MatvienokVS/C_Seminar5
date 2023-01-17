@@ -7,6 +7,7 @@ Clear();
 Write("Введите количество элементов массива: ");
 int.TryParse(ReadLine(), out int size_array);
 PrintArray(GetArray(size_array));
+PrintArray(InvertArray);
 
 
 
@@ -23,10 +24,14 @@ int[] GetArray(int size)
 }
 
 
-int InvertArray(int size)
+int[] InvertArray()
 {
-
-    return Array;
+    int[] array = GetArray;
+    for (int i = 0; i < array.Length; i++)
+    {
+        array[i] *= -1;
+    }
+    return array;
 }
 
 
