@@ -1,0 +1,15 @@
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar5\ExSeminar\obj\Debug\net7.0\ExSeminar.csproj.AssemblyReference.cache
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar5\ExSeminar\obj\Debug\net7.0\ExSeminar.GeneratedMSBuildEditorConfig.editorconfig
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar5\ExSeminar\obj\Debug\net7.0\ExSeminar.AssemblyInfoInputs.cache
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar5\ExSeminar\obj\Debug\net7.0\ExSeminar.AssemblyInfo.cs
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar5\ExSeminar\obj\Debug\net7.0\ExSeminar.csproj.CoreCompileInputs.cache
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar5\ExSeminar\bin\Debug\net7.0\ExSeminar.exe
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar5\ExSeminar\bin\Debug\net7.0\ExSeminar.deps.json
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar5\ExSeminar\bin\Debug\net7.0\ExSeminar.runtimeconfig.json
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar5\ExSeminar\bin\Debug\net7.0\ExSeminar.dll
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar5\ExSeminar\bin\Debug\net7.0\ExSeminar.pdb
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar5\ExSeminar\obj\Debug\net7.0\ExSeminar.dll
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar5\ExSeminar\obj\Debug\net7.0\refint\ExSeminar.dll
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar5\ExSeminar\obj\Debug\net7.0\ExSeminar.pdb
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar5\ExSeminar\obj\Debug\net7.0\ExSeminar.genruntimeconfig.cache
+G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar5\ExSeminar\obj\Debug\net7.0\ref\ExSeminar.dll
