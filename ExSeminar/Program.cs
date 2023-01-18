@@ -5,8 +5,9 @@ Clear();
 
 Write("Введите количество элементов массива: ");
 int.TryParse(ReadLine(), out int size_array);
-PrintArray(GetArray(size_array));
-PrintArray(InvertArray(size_array));
+int[] array = GetArray(size_array);
+PrintArray(array);
+PrintArray(InvertArray(array));
 
 
 
