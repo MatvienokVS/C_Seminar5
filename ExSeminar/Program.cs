@@ -23,9 +23,9 @@ int[] GetArray(int size)
 }
 
 
-int[] InvertArray(int size)
+int[] InvertArray(int[] inArray)
 {
-    int[] ints = GetArray(size);
+    int[] ints = GetArray(inArray);
     for (int i = 0; i < ints.Length; i++)
     {
         ints[i] *= -1;
