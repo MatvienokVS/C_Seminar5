@@ -8,7 +8,7 @@ Write("Введите количество элементов массива: ")
 int.TryParse(ReadLine(), out int size_array);
 int[] array = GetArray(size_array);
 PrintArray(array);
-PrintArray(CountNum(array));
+WriteLine(CountNum(array));
 
 
 int[] GetArray(int size)
@@ -17,21 +17,19 @@ int[] GetArray(int size)
     Random rnd = new Random();
     for (int i = 0; i < array.Length; i++)
     {
-        array[i] = rnd.Next(-100, 101);
+        array[i] = rnd.Next(100, 1000);
     }
     return array;
 }
 
-int CountNum(int inArray) 
+int CountNum(int[] inArray) 
 {
     int count = 0;
-    int[] ints = GetArray(inArray);
-    for (int i = 0; i < ints.Length; i++)
+    int[] ints = new int[inArray.Length];
+
+    foreach (int i in inArray)
     {
-        if (ints[i] %= 0)
-        {
-            count++;
-        }
+        if (i % 2 == 0) count++;
     }
     return count;
 }

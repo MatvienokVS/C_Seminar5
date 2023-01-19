@@ -25,10 +25,10 @@ int[] GetArray(int size)
 
 int[] InvertArray(int[] inArray)
 {
-    int[] ints = GetArray(inArray);
+    int[] ints = new int[inArray.Length];
     for (int i = 0; i < ints.Length; i++)
     {
-        ints[i] *= -1;
+        ints[i] = -inArray[i];
     }
     return ints;
 }
