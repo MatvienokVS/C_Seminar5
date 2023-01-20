@@ -2,3 +2,9 @@
 //[3,3 7,1 22,5 2,2 78,2] -> 76
 
 
+using static System.Console;
+Clear();
+
+Write("Введите колличество элементов в массиве: ");
+int.TryParse(ReadLine(), out int size_array);
+
