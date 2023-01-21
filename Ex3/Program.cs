@@ -37,10 +37,11 @@ void DeffNumMaxMin(int[] inArray)
 		if (minnum > inArray[i]) minnum = inArray[i];
 	}
 
-	WriteLine(maxnum);
-	WriteLine(minnum);
-	WriteLine(maxnum - minnum);
-    
+	WriteLine($"Значение максимум равно {maxnum}");
+	WriteLine($"Значение минимум равно {minnum}");
+	Write($"Разница между максимальным и минимальным значением равно ");
+    Write(maxnum - minnum);
+
 }
 
 
