@@ -30,7 +30,8 @@ int SummOddNum(int[] inArray)
 
     foreach (int a in inArray)
     {
-        if (a % 2 == 0) summ+=a;
+        if (a % 2 == 0) summ+= inArray[a];
+
         //summ += a % 2 > 0 ? a : 0;
     }
         
