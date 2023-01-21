@@ -1,0 +1,15 @@
+D:\VisualStudioCode_Project\GeekBrains\C#\Семинар 5\Ex3\obj\Debug\net7.0\EX3.csproj.AssemblyReference.cache
+D:\VisualStudioCode_Project\GeekBrains\C#\Семинар 5\Ex3\obj\Debug\net7.0\EX3.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioCode_Project\GeekBrains\C#\Семинар 5\Ex3\obj\Debug\net7.0\EX3.AssemblyInfoInputs.cache
+D:\VisualStudioCode_Project\GeekBrains\C#\Семинар 5\Ex3\obj\Debug\net7.0\EX3.AssemblyInfo.cs
+D:\VisualStudioCode_Project\GeekBrains\C#\Семинар 5\Ex3\obj\Debug\net7.0\EX3.csproj.CoreCompileInputs.cache
+D:\VisualStudioCode_Project\GeekBrains\C#\Семинар 5\Ex3\bin\Debug\net7.0\EX3.exe
+D:\VisualStudioCode_Project\GeekBrains\C#\Семинар 5\Ex3\bin\Debug\net7.0\EX3.deps.json
+D:\VisualStudioCode_Project\GeekBrains\C#\Семинар 5\Ex3\bin\Debug\net7.0\EX3.runtimeconfig.json
+D:\VisualStudioCode_Project\GeekBrains\C#\Семинар 5\Ex3\bin\Debug\net7.0\EX3.dll
+D:\VisualStudioCode_Project\GeekBrains\C#\Семинар 5\Ex3\bin\Debug\net7.0\EX3.pdb
+D:\VisualStudioCode_Project\GeekBrains\C#\Семинар 5\Ex3\obj\Debug\net7.0\EX3.dll
+D:\VisualStudioCode_Project\GeekBrains\C#\Семинар 5\Ex3\obj\Debug\net7.0\refint\EX3.dll
+D:\VisualStudioCode_Project\GeekBrains\C#\Семинар 5\Ex3\obj\Debug\net7.0\EX3.pdb
+D:\VisualStudioCode_Project\GeekBrains\C#\Семинар 5\Ex3\obj\Debug\net7.0\EX3.genruntimeconfig.cache
+D:\VisualStudioCode_Project\GeekBrains\C#\Семинар 5\Ex3\obj\Debug\net7.0\ref\EX3.dll
