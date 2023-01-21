@@ -28,10 +28,16 @@ int SummOddNum(int[] inArray)
     int summ = 0;
     int[] ints = new int[inArray.Length];
 
-    for (int i = 0; i < inArray.Length; i++)
+    foreach (int a in inArray)
     {
-        if (i % 2 > 0) summ += ints[i];
+        if (a % 2 == 0) summ+=a;
+        //summ += a % 2 > 0 ? a : 0;
     }
+        
+    //for (int i = 0; i < inArray.Length; i++)
+    //{
+    //    if (i % 2 > 0) summ += ints[i];
+    //}
     
     return summ;
 }
