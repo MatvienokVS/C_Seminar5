@@ -39,7 +39,7 @@ void DeffNumMaxMin(int[] inArray)
 
 	WriteLine(maxnum);
 	WriteLine(minnum);
-	WriteLine(maxnum- minnum);
+	WriteLine(maxnum - minnum);
     
 }
 
