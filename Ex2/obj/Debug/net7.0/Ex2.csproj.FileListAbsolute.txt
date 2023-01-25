@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar5\Ex2\obj\Debug\net7.0\Ex2.csproj.AssemblyReference.cache
 G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar5\Ex2\obj\Debug\net7.0\Ex2.GeneratedMSBuildEditorConfig.editorconfig
 G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar5\Ex2\obj\Debug\net7.0\Ex2.AssemblyInfoInputs.cache
@@ -13,3 +14,20 @@ G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar5\Ex2\obj\Debug\net7.0\refint\
 G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar5\Ex2\obj\Debug\net7.0\Ex2.pdb
 G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar5\Ex2\obj\Debug\net7.0\Ex2.genruntimeconfig.cache
 G:\ProjectVisualStudioCode\GeekBrains\C#\C_Seminar5\Ex2\obj\Debug\net7.0\ref\Ex2.dll
+=======
+D:\VisualStudioCode_Project\GeekBrains\C#\Семинар 5\Ex2\bin\Debug\net7.0\Ex2.exe
+D:\VisualStudioCode_Project\GeekBrains\C#\Семинар 5\Ex2\bin\Debug\net7.0\Ex2.deps.json
+D:\VisualStudioCode_Project\GeekBrains\C#\Семинар 5\Ex2\bin\Debug\net7.0\Ex2.runtimeconfig.json
+D:\VisualStudioCode_Project\GeekBrains\C#\Семинар 5\Ex2\bin\Debug\net7.0\Ex2.dll
+D:\VisualStudioCode_Project\GeekBrains\C#\Семинар 5\Ex2\bin\Debug\net7.0\Ex2.pdb
+D:\VisualStudioCode_Project\GeekBrains\C#\Семинар 5\Ex2\obj\Debug\net7.0\Ex2.csproj.AssemblyReference.cache
+D:\VisualStudioCode_Project\GeekBrains\C#\Семинар 5\Ex2\obj\Debug\net7.0\Ex2.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioCode_Project\GeekBrains\C#\Семинар 5\Ex2\obj\Debug\net7.0\Ex2.AssemblyInfoInputs.cache
+D:\VisualStudioCode_Project\GeekBrains\C#\Семинар 5\Ex2\obj\Debug\net7.0\Ex2.AssemblyInfo.cs
+D:\VisualStudioCode_Project\GeekBrains\C#\Семинар 5\Ex2\obj\Debug\net7.0\Ex2.csproj.CoreCompileInputs.cache
+D:\VisualStudioCode_Project\GeekBrains\C#\Семинар 5\Ex2\obj\Debug\net7.0\Ex2.dll
+D:\VisualStudioCode_Project\GeekBrains\C#\Семинар 5\Ex2\obj\Debug\net7.0\refint\Ex2.dll
+D:\VisualStudioCode_Project\GeekBrains\C#\Семинар 5\Ex2\obj\Debug\net7.0\Ex2.pdb
+D:\VisualStudioCode_Project\GeekBrains\C#\Семинар 5\Ex2\obj\Debug\net7.0\Ex2.genruntimeconfig.cache
+D:\VisualStudioCode_Project\GeekBrains\C#\Семинар 5\Ex2\obj\Debug\net7.0\ref\Ex2.dll
+>>>>>>> 11efde181ef3625c4329a41d5db6f6dc91437340
